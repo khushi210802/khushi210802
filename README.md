@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushi210802
 - 👀 I’m interested in learning new technologies, sharping my statistics skills, knowing in deep about data structures. 
-- 👩‍🎓 I’m currently a BCA (S.Y.) student at St. Xaviers College,Navrangpura
+- 👩‍🎓 I’m currently a BCA[2020-23] student at St. Xaviers College,Navrangpura
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Feel free to reach me at khushiagrawal210802@gmail.com or on instagram @khushi_a_2108
 
